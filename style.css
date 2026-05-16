@@ -1,0 +1,20 @@
+.stApp {
+    background-color: #0f172a;
+    color: white;
+}
+
+h1, h2, h3 {
+    color: #38bdf8;
+}
+
+.stButton > button {
+    border-radius: 12px;
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+}
+
+.stTextInput input, .stTextArea textarea {
+    border-radius: 10px;
+}
